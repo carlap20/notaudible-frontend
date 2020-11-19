@@ -75,7 +75,7 @@ const Login = () => {
                   <i onClick={togglePasswordVisiblity} className="ver"><img src="https://image.flaticon.com/icons/png/512/65/65000.png" className="eye" /></i>{" "}
                   <input type="submit" value="Iniciar Sesión" />
                   <a className="olvidado" onClick={handleClickO}>¿Te has olvidado la contraseña?</a>
-                </div>
+                </div> 
               </div>
 
 

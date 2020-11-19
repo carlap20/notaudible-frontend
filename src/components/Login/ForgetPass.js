@@ -40,8 +40,8 @@ const ForgetPass = () => {
               <div>
                 <label className="text-email">Escriba su email </label>
                 <input placeholder="example@example.com" type="text" name="email" onChange={handleInputChange}></input>
-              </div>
-              <div>
+              </div> 
+              <div> 
                 <button type="submit">Enviar</button>
               </div>
             </div>
