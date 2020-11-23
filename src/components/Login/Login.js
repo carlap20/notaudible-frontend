@@ -66,7 +66,6 @@ const Login = () => {
                 <h2 className="nocuenta">¿No tienes cuenta?</h2>
                 <label id="label-login" for="log-login-show" onClick={handleClickR}>Registrarse</label>
               </div>
-    
               <div className="white-panel">
                 <div className="login-show">
                   <h2>Iniciar Sesión</h2>
