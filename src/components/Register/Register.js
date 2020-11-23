@@ -9,7 +9,6 @@ const Register = () => {
   function handleClickL() {
     history.push("/login");
   }
-
   //Mostrar constraseña
   const [passwordShown, setPasswordShown] = useState(false);
   const togglePasswordVisiblity = () => {

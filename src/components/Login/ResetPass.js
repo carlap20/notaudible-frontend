@@ -15,7 +15,7 @@ const ResetPass = () => {
       [event.target.name] : event.target.value
     })
   }
-
+ 
   const sendForm = (event) => {
     event.preventDefault();
     console.log(datos.email)

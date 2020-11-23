@@ -14,6 +14,7 @@ const ForgetPass = () => {
     })
   }
 
+  
   const sendForm = (event) => {
     event.preventDefault();
     console.log(datos.email)
